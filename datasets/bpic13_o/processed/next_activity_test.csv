@@ -1,0 +1,97 @@
+case_id,prefix,k,next_act
+1-750411941,queued accepted,1,accepted
+1-750411941,queued accepted accepted,2,queued
+1-750411941,queued accepted accepted queued,3,accepted
+1-750411941,queued accepted accepted queued accepted,4,accepted
+1-750499270,accepted queued,1,accepted
+1-750499270,accepted queued accepted,2,accepted
+1-750499270,accepted queued accepted accepted,3,accepted
+1-750499270,accepted queued accepted accepted accepted,4,accepted
+1-750499270,accepted queued accepted accepted accepted accepted,5,queued
+1-750499270,accepted queued accepted accepted accepted accepted queued,6,accepted
+1-750717620,accepted accepted,1,queued
+1-750717620,accepted accepted queued,2,accepted
+1-751087171,accepted accepted,1,accepted
+1-751087171,accepted accepted accepted,2,accepted
+1-751461582,accepted accepted,1,accepted
+1-751548681,accepted accepted,1,accepted
+1-751548681,accepted accepted accepted,2,accepted
+1-752141231,accepted queued,1,accepted
+1-752141231,accepted queued accepted,2,queued
+1-752141231,accepted queued accepted queued,3,queued
+1-752141231,accepted queued accepted queued queued,4,accepted
+1-752141231,accepted queued accepted queued queued accepted,5,queued
+1-752141231,accepted queued accepted queued queued accepted queued,6,accepted
+1-752141231,accepted queued accepted queued queued accepted queued accepted,7,queued
+1-752294640,queued accepted,1,accepted
+1-752294640,queued accepted accepted,2,queued
+1-752294659,accepted queued,1,accepted
+1-752294659,accepted queued accepted,2,accepted
+1-752294659,accepted queued accepted accepted,3,accepted
+1-752294699,accepted queued,1,accepted
+1-752828161,accepted queued,1,accepted
+1-752828161,accepted queued accepted,2,accepted
+1-753055854,accepted queued,1,accepted
+1-753055854,accepted queued accepted,2,queued
+1-753055854,accepted queued accepted queued,3,accepted
+1-753245663,accepted queued,1,accepted
+1-753245663,accepted queued accepted,2,accepted
+1-753245663,accepted queued accepted accepted,3,queued
+1-753245663,accepted queued accepted accepted queued,4,accepted
+1-753301833,accepted queued,1,accepted
+1-753487360,accepted queued,1,accepted
+1-753487360,accepted queued accepted,2,queued
+1-753487360,accepted queued accepted queued,3,accepted
+1-753487360,accepted queued accepted queued accepted,4,accepted
+1-753487360,accepted queued accepted queued accepted accepted,5,queued
+1-753504966,accepted queued,1,accepted
+1-753504966,accepted queued accepted,2,queued
+1-753504966,accepted queued accepted queued,3,accepted
+1-753504966,accepted queued accepted queued accepted,4,accepted
+1-753504966,accepted queued accepted queued accepted accepted,5,queued
+1-753504966,accepted queued accepted queued accepted accepted queued,6,accepted
+1-753504966,accepted queued accepted queued accepted accepted queued accepted,7,accepted
+1-753504966,accepted queued accepted queued accepted accepted queued accepted accepted,8,queued
+1-753504966,accepted queued accepted queued accepted accepted queued accepted accepted queued,9,accepted
+1-753569621,accepted accepted,1,accepted
+1-754168350,accepted queued,1,accepted
+1-754168350,accepted queued accepted,2,accepted
+1-754168350,accepted queued accepted accepted,3,queued
+1-754526611,accepted queued,1,accepted
+1-754584941,accepted accepted,1,accepted
+1-754949761,queued accepted,1,accepted
+1-754949761,queued accepted accepted,2,accepted
+1-754949761,queued accepted accepted accepted,3,accepted
+1-754949761,queued accepted accepted accepted accepted,4,accepted
+1-755443602,accepted accepted,1,accepted
+1-755467807,accepted queued,1,accepted
+1-756110987,accepted queued,1,accepted
+1-756110987,accepted queued accepted,2,queued
+1-756110987,accepted queued accepted queued,3,queued
+1-756296231,accepted accepted,1,accepted
+1-756296231,accepted accepted accepted,2,accepted
+1-756301789,queued queued,1,accepted
+1-756484463,accepted accepted,1,accepted
+1-756651699,accepted accepted,1,accepted
+1-756651699,accepted accepted accepted,2,accepted
+1-757096237,accepted accepted,1,accepted
+1-757096237,accepted accepted accepted,2,accepted
+1-757113161,accepted queued,1,accepted
+1-757154661,queued accepted,1,accepted
+1-757154661,queued accepted accepted,2,accepted
+1-757480343,accepted accepted,1,queued
+1-757480762,accepted accepted,1,accepted
+1-757533524,accepted queued,1,accepted
+1-757564651,accepted queued,1,queued
+1-757671208,accepted accepted,1,queued
+1-757671208,accepted accepted queued,2,accepted
+1-757827277,accepted accepted,1,queued
+1-758231571,accepted queued,1,accepted
+1-758488261,accepted queued,1,accepted
+1-758488261,accepted queued accepted,2,queued
+1-758488261,accepted queued accepted queued,3,accepted
+1-758488261,accepted queued accepted queued accepted,4,queued
+1-758488261,accepted queued accepted queued accepted queued,5,accepted
+1-758494760,accepted queued,1,accepted
+1-758494760,accepted queued accepted,2,accepted
+1-758989918,accepted queued,1,accepted
