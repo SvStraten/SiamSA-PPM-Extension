@@ -2,7 +2,7 @@
 
 This is the official GitHub repository for SIAMese learning with Statistical Augmentation for Predictive Process Monitoring (SiamSA-PPM).
 
-![The Framework](framework.png)
+![The Framework](architecture.png)
 
 ## Datasets
 
